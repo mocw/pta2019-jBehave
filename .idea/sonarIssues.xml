@@ -38,6 +38,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/pageObject/AjaxFormSubmit.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/pageObject/Checkbox.java">
           <value>
             <set />
@@ -59,6 +64,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/pageObject/SingleInputForm.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/AjaxFormSubmitSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/AjaxFormSubmitStory.java">
           <value>
             <set />
           </value>
@@ -114,6 +129,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/test/java/storiesURL.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/stories/ajax_form_submit_story.story">
           <value>
             <set />
           </value>
