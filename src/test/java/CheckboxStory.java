@@ -17,7 +17,8 @@ public class CheckboxStory extends JUnitStory {
     public Configuration configuration()
     {
         return  new MostUsefulConfiguration()
-                .useStoryLoader(storiesURL.getstoriesURL() != null ? new LoadFromRelativeFile(storiesURL.getstoriesURL()) : new LoadFromClasspath(this.getClass()));
+                .useStoryLoader(storiesURL.getstoriesURL() != null ?
+                        new LoadFromRelativeFile(storiesURL.getstoriesURL()) : new LoadFromClasspath(this.getClass()));
     }
 
     @Override
