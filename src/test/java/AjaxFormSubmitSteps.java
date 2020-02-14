@@ -46,6 +46,6 @@ public class AjaxFormSubmitSteps {
 
     @Then("Close chrome Browser")
     public void closeBrowser(){
-        //ChromeDriver.quit();
+        ChromeDriver.quit();
     }
 }
