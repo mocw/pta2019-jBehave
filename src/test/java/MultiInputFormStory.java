@@ -20,7 +20,6 @@ public class MultiInputFormStory extends JUnitStory {
     {
         return  new MostUsefulConfiguration()
                 .useStoryLoader(storiesURL.getstoriesURL() != null ? new LoadFromRelativeFile(storiesURL.getstoriesURL()) : new LoadFromClasspath(this.getClass()));
-
     }
 
     @Override
