@@ -35,7 +35,7 @@ public class CheckboxSteps {
         assertEquals("Success - Check box is checked",result);
     }
 
-    @Then("We click on the $title button")
+    @When("We click on the Check All button")
     public void clickCheckAllButton(){
         page.checkUncheckAllButtonClick();
     }
