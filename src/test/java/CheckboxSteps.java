@@ -47,7 +47,7 @@ public class CheckboxSteps {
 
     @Then("Close the chrome browser")
     public void closeBrowser(){
-        ChromeDriver.quit();
+        //ChromeDriver.quit();
     }
 
 }

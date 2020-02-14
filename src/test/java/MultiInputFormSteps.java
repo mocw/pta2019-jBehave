@@ -46,7 +46,7 @@ public class MultiInputFormSteps {
 
     @Then("Close chrome Browser")
     public void closeBrowser(){
-        ChromeDriver.quit();
+        //ChromeDriver.quit();
     }
 
 }

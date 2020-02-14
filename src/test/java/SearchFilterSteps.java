@@ -44,6 +44,6 @@ public class SearchFilterSteps {
 
     @Then("We close Chrome Browser")
     public void closeBrowser(){
-        ChromeDriver.quit();
+        //ChromeDriver.quit();
     }
 }

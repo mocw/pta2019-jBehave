@@ -45,7 +45,7 @@ public class SingleInputFormSteps  {
 
     @Then("Close the chrome browser")
     public void closeBrowser(){
-        ChromeDriver.quit();
+        //ChromeDriver.quit();
     }
 
 }
