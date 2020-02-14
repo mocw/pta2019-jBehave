@@ -6,8 +6,6 @@ import pl.lodz.uni.math.ChromeDriver;
 import pl.lodz.uni.math.Page;
 import pl.lodz.uni.math.pageObject.SearchFilter;
 
-import java.util.List;
-
 import static org.junit.Assert.assertEquals;
 
 public class SearchFilterSteps {
