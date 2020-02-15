@@ -18,11 +18,10 @@ public class ChromeDriver {
 
     public static void await(){
         try{
-
             sleep(1000);
         }
         catch(Exception e){
-            System.out.println(e.getMessage());
+            e.printStackTrace();
         }
     }
 
